@@ -24,7 +24,7 @@ def main():
     
     x = float(input("N1: "))
   
-    if (a in [0, 1, 2, 3, 4, 5]) :
+    if (a in [0, 1, 2, 3, 4]) :
         y = float(input("N2: "))
     else:
         y = 2    
