@@ -30,27 +30,27 @@ def main():
         y = 2    
    
     def add():
-        if ( a == 0) :
+        if (a == 0) :
           return x + y
     
     def sub():
-        if ( a == 1) :
+        if (a == 1) :
           return x - y
 
     def mul():
-        if ( a == 2) :
+        if (a == 2) :
           return x * y
 
     def div():
-        if ( a == 3) :
+        if (a == 3) :
           return x / y
 
     def expo():
-        if ( a == 4) :
+        if (a == 4) :
           return x ** y      
 
     def root():
-        if ( a == 5) :
+        if (a == 5) :
           return math.sqrt(x)      
 
     def switch(m):      
